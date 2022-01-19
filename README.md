@@ -1,4 +1,4 @@
-# Hi There, I am Anurag
+# Hi There 👋, I am Anurag
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Anuragkr07&show_icons=true&theme=radical" >
 
