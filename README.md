@@ -1,5 +1,9 @@
 # Hi There 👋, I am Anurag
 
+![](https://komarev.com/ghpvc/?username=Anuragkr07&color=blueviolet&style=plastic)
+
+
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Anuragkr07&show_icons=true&theme=radical">
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkr07&layout=compact">
@@ -25,3 +29,6 @@
 
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" >
 <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" >
+
+![](https://komarev.com/ghpvc/?username=Anuragkr07&color=green)
+
