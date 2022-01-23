@@ -6,9 +6,13 @@
 
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Anuragkr07&show_icons=true&theme=radical">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Anuragkr07&show_icons=true&theme=radical">
 
-<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkr07&layout=compact">
+
+<img  width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=Anuragkr07&date_format=M%20j%5B%2C%20Y%5D">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkr07&layout=compact">
+
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,5 +43,7 @@
 <a href="https://twitter.com/AnuragK06272590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyaroy2086" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anurag-kr-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyaroy2086" height="30" width="50" /></a>
 </p>
+
+
 
 
