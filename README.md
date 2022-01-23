@@ -11,7 +11,10 @@
 
 <img  width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=Anuragkr07&date_format=M%20j%5B%2C%20Y%5D">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkr07&layout=compact">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkr07&layout=compact">
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Anuragkr07&theme=dracula">
+
 
 <hr>
 
