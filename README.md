@@ -1,25 +1,68 @@
-<h1 align="center">Hi There 👋, I am Anurag</h1>
+<div align="center">
+
+### Hi there, I'm Anurag <img src="https://github.com/nouraan-ahmed/nouraan-ahmed/blob/main/wave.gif" width="30px">
+  
+  ![](https://komarev.com/ghpvc/?username=Anuragkr07&color=blueviolet&style=plastic&align=center)
+
+</div> 
 
 
-![](https://komarev.com/ghpvc/?username=Anuragkr07&color=blueviolet&style=plastic&align=center)
+
+<div align="center">
+  
+## 👨🏻‍💻 About Me
+  
+</div> 
+
+- 👯 I'm Currently a Computer Science Engineering Student
+- 🔭 I'm Seeking To Obtain a Challenging Career to enhance my knowledge and increase my experience, I'm always seeking continuous improvement in my personality and mindset
+- 🌱 I’m Currently learning React & NodeJs
+- 🔭 I’m looking to collaborate on web project
+- 👨🏼‍💻 Open for Freelance Projects and Internships
+- 🥅 My GOAL: Work as a professional Software Engineer and Contribute more to Open Source projects
+- ⚡ Fun fact: Ever Since I was a little kid, Software Development has been my passion. it was almost magic, being able to get the computer to do whatever I wanted, just by typing some code
+- 📫 How to reach me: **[anuragkumarsingh1002@gmail.com](mailto:anuragkumarsingh1002@gmail.com?subject=[GitHub]%20)**
+
+<br>
 
 
+<div align="center">
+
+  ## 📊 Github Stats
+
+</div> 
+
+<div align="center">
+  
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Anuragkr07&show_icons=true&theme=radical">
 
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Anuragkr07&show_icons=true&theme=radical">
-
-
-<img  width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=Anuragkr07&date_format=M%20j%5B%2C%20Y%5D">
-
+  <img  width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=Anuragkr07&date_format=M%20j%5B%2C%20Y%5D">
+  
+  <br>
+ <br>
+  
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkr07&layout=compact">
+  
+</div> 
 
+<br>
 <img src="https://activity-graph.herokuapp.com/graph?username=Anuragkr07&theme=dracula">
 
 
-<hr>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
+<div align="center">
+  
+  <br>
+  
+## 🕵️‍♀️ Languages and Tools:
+  
+</div>
+
+<div>
+  
+  <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" >
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" >
 
@@ -40,15 +83,44 @@
 
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" >
 <img  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" >
+  
+</div>
 
-<hr>
-<h3 align="left">Connect with me on:</h3>
-<p align="left">
-<a href="https://twitter.com/AnuragK06272590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyaroy2086" height="30" width="40" /></a>
+
+
+<br>
+
+
+<div align="center">
+  
+  
+## 🌐 Tech Accounts
+  
+<a target="_blank" href="https://www.codechef.com/users/anurag_1002" style="padding-right:18px;">
+  <img alt="CodeForces" width="100px" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+</a>
+<a target="_blank" href="https://leetcode.com/Anurag_kr/" style="padding-right:18px;">
+  <img alt="Leetcode" width="100px" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+</a>
+<a target="_blank" href="https://auth.geeksforgeeks.org/user/anuragkumarsingh1002/practice/" style="padding-right:18px;">
+  <img alt="GeeksForGeeks" width="135px" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+</div>
+
+<br>
+
+
+
+<div align="center">
+  
+  ## ⚙️ Connect with me:
+  
+  <a href="https://twitter.com/AnuragK06272590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyaroy2086" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anurag-kr-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anuragkr07" height="30" width="50" /></a>
   
+</div> 
 
-</p>
+
 
 
 
