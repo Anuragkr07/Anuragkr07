@@ -16,7 +16,7 @@
 
 - 👯 I'm Currently a Computer Science Engineering Student
 - 🔭 I'm Seeking To Obtain a Challenging Career to enhance my knowledge and increase my experience, I'm always seeking continuous improvement in my personality and mindset
-- 🌱 I’m Currently learning React & NodeJs
+- 🌱 I’m Currently learning React & NodeJs  <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="43">
 - 🔭 I’m looking to collaborate on web project
 - 👨🏼‍💻 Open for Freelance Projects and Internships
 - 🥅 My GOAL: Work as a professional Software Engineer and Contribute more to Open Source projects
