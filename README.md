@@ -56,7 +56,7 @@
   
   <br>
   
-## 🕵️‍♀️ Languages and Tools:
+ <h1/><img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/github.gif" width="50px"/> Tools I Use</h1>
   
 </div>
 
