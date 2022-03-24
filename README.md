@@ -4,7 +4,7 @@
   
   <img src="https://user-images.githubusercontent.com/86841935/158090002-2df41d0c-c480-4de2-83c5-8bb3c37b2ae1.png" width="300px">
   
-  ![](https://komarev.com/ghpvc/?username=Anuragkr07&color=blueviolet&style=plastic&align=center)
+  ![](https://komarev.com/ghpvc/?username=Anuragkr07&color=blue&style=plastic&align=center)
 
 </div> 
 
