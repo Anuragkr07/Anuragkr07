@@ -27,6 +27,24 @@
 
 <br>
 
+<div align="center">
+
+  ## 📊 Leetcode Stats
+
+</div> 
+
+<div align="center">
+  
+  <p>
+ <a href="https://leetcode.com/Anuragkr07/">
+  <img src="https://leetcode.card.workers.dev/?username=Anuragkr07&theme=nord" width=50% >
+ </a>
+</p>
+  
+
+
+  
+</div> 
 
 <div align="center">
 
@@ -44,16 +62,16 @@
   <br>
  <br>
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkr07&layout=compact">
-  <p>
- <a href="https://leetcode.com/Anuragkr07/">
-  <img src="https://leetcode.card.workers.dev/?username=Anuragkr07&theme=nord" width=41% >
- </a>
-</p>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkr07&layout=compact">
+  
   
 
   
 </div> 
+
+
+
+
 
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=Anuragkr07&theme=dracula">
