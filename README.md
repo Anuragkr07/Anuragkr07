@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Anurag <img src="https://github.com/nouraan-ahmed/nouraan-ahmed/blob/main/wave.gif" width="30px">
   
-  <img src="https://user-images.githubusercontent.com/86841935/158090002-2df41d0c-c480-4de2-83c5-8bb3c37b2ae1.png" width="300px">
+  <img  src="https://user-images.githubusercontent.com/86841935/158090002-2df41d0c-c480-4de2-83c5-8bb3c37b2ae1.png" width="300px">
   
   ![](https://komarev.com/ghpvc/?username=Anuragkr07&color=blue&style=plastic&align=center)
 
@@ -44,7 +44,14 @@
   <br>
  <br>
   
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkr07&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkr07&layout=compact">
+  <p>
+ <a href="https://leetcode.com/Anuragkr07/">
+  <img src="https://leetcode.card.workers.dev/?username=Anuragkr07&theme=nord" width=41% >
+ </a>
+</p>
+  
+
   
 </div> 
 
