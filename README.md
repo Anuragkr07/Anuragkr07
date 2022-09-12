@@ -74,7 +74,7 @@
 
 
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=Anuragkr07&theme=dracula">
+<img src="https://activity-graph.herokuapp.com/graph?username=Anuragkr07&theme=redical&hide_border=true&area=true">
 
 
 <br>
