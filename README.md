@@ -74,7 +74,9 @@
 
 
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=Anuragkr07&theme=redical&hide_border=true&area=true">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Anuragkr07&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <br>
